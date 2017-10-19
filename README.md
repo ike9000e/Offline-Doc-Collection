@@ -9,7 +9,16 @@ To view CHM files following programs can be used:
 - [CHM Fox](https://addons.mozilla.org/en-US/firefox/addon/chmfox/)
 
 #### Imlib2 Library Documentation
-
 + Website: [Imlib2](https://docs.enlightenment.org/api/imlib2/html/)
 + Desc: C library for loading, converting, resampling or saving 2D images, JPEG, PNG, GIF, etc.\n
 + Download: [imlib2_doc_v1x1x1_r1x0_20171019](docs_001/imlib2_doc_v1x1x1_r1x0_20171019.chm)
+
+#### Blender Documentation
++ Website: [blender.org](http://blender.org/)
++ Desc: Free and open-source 3D computer graphics software.
++ Download: [Blender_API_doc_2x75x1_r0x2.chm](docs_001/Blender_API_doc_2x75x1_r0x2.chm)
+
+#### Lua Reference Manual
++ Website: [www.lua.org](http://www.lua.org/)
++ Desc: Lua language reference manual.
++ Download: [lua_5x2_reference_manual_r0x1_20141013.chm](docs_001/lua_5x2_reference_manual_r0x1_20141013.chm)
