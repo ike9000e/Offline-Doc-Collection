@@ -22,3 +22,5 @@ To view CHM files following programs can be used:
 + Website: [www.lua.org](http://www.lua.org/)
 + Desc: Lua language reference manual.
 + Download: [lua_5x2_reference_manual_r0x1_20141013.chm](docs_001/lua_5x2_reference_manual_r0x1_20141013.chm)
+
+Currently there may be more docs, not listed here, in the [docs_001](docs_001) directory.
