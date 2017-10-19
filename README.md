@@ -1,8 +1,8 @@
 # Offline-Doc-Collection
 
-This repository is a database of documentation files generated for various projects, programs or converted from other documents.
+This repository is a database of documentation files generated for various libraries, projects, programs or converted from other documents.
 Currently all files are in [CHM format](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help).
-Though original files are created by other authors, contents listed here are documents created by owner of this page (ikk00).
+Though original files are created by other authors, eg. author of the project or library programmer, contents listed here are documents created by the owner of this github page.
 
 To view CHM files following programs can be used:
 - [Kchmviewer](http://www.ulduzsoft.com/kchmviewer)
