@@ -4,7 +4,7 @@ This repository is a database of documentation files generated for various libra
 Currently all files are in [CHM format](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help).
 Though original files are created by other authors, eg. author of the project or library programmer, contents listed here are documents generated or converted by the owner of this github page. Usually new documents are extended by additions like new table of contents, alphabetical index of topics or new main page.
 
-To view CHM files following programs can be used:
+To view CHM files following programs can be used <img src="assets/chm2.png"/>:
 - [Kchmviewer](http://www.ulduzsoft.com/kchmviewer)
 - [CHM Fox](https://addons.mozilla.org/en-US/firefox/addon/chmfox/)
 
