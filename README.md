@@ -29,16 +29,27 @@ To view CHM files following programs can be used:
 + Download: [external link](https://mega.co.nz/#!8N0xxBQR!eIKBd2s7R8WFgKjZC4Ru4awXCzLWNdioi3IL81bE7BI), [external link #2](https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing) (size >25MiB)
 
 <table>
-	<tr><td>Qt</td><td>
+	<tr><td>Qt 4</td><td>
 		Website: <a href="www.qt.io">https://www.qt.io/</a> <br/>
 		Desc: Cross-platform application framework in C++ and other programming languages. <br/>
 		Download #1: <a href="https://mega.co.nz/#!8N0xxBQR!eIKBd2s7R8WFgKjZC4Ru4awXCzLWNdioi3IL81bE7BI">external link</a><br/>
-		Download #1: <a href="https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing">external link 2</a><br/>
+		Download #2: <a href="https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing">external link 2</a><br/>
 	</td></tr>
-	<tr><td>Eigen</td><td>
-		Website: <a href="xxxxxx">yyyyyyy</a> <br/>
-		Desc: xxxxxxxxx<br/>
-		Download: <a href="docs_001/vvvvvvv?raw=true">wwwwwwwwwww</a><br/>
+	<tr><td>Lua</td><td>
+		Website: <a href="http://www.lua.org/">www.lua.org</a> <br/>
+		Desc: Lua language reference manual.<br/>
+		Download: <a href="docs_001/lua_5x2_reference_manual_r0x1_20141013.chm?raw=true">lua_5x2_reference_manual_r0x1_20141013.chm</a><br/>		
+	</td></tr>
+	<tr><td>blender</td><td>
+		Website: <a href="http://blender.org/">blender.org</a> <br/>
+		Desc: Free and open-source 3D computer graphics software.<br/>
+		Download: <a href="docs_001/Blender_API_doc_2x75x1_r0x2.chm?raw=true">Blender_API_doc_2x75x1_r0x2.chm</a><br/>
+	</td></tr>
+	<tr><td>Imlib2</td><td>
+		Imlib2 Library Documentation<br/>
+		Website: <a href="https://docs.enlightenment.org/api/imlib2/html/">Imlib2</a> <br/>
+		Desc: C library for loading, converting, resampling or saving 2D images, JPEG, PNG, GIF, etc.\n<br/>
+		Download: <a href="docs_001/imlib2_doc_v1x1x1_r1x0_20171019.chm?raw=true">imlib2_doc_v1x1x1_r1x0_20171019.chm</a><br/>
 	</td></tr>
 	<tr><td>Eigen</td><td>
 		Website: <a href="http://eigen.tuxfamily.org/">eigen</a> <br/>
