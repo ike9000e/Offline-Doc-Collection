@@ -24,8 +24,9 @@ To view CHM files following programs can be used:
 		Qt Reference manual for legacy version 4<br/>
 		Website: <a href="www.qt.io">https://www.qt.io/</a> <br/>
 		Desc: Cross-platform application framework in C++ and other programming languages. <br/>
-		Download #1: <a href="https://mega.co.nz/#!8N0xxBQR!eIKBd2s7R8WFgKjZC4Ru4awXCzLWNdioi3IL81bE7BI">external link</a><br/>
-		Download #2: <a href="https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing">external link 2</a><br/>
+		Download:   <a href="https://mega.co.nz/#!8N0xxBQR!eIKBd2s7R8WFgKjZC4Ru4awXCzLWNdioi3IL81bE7BI">external link</a>,
+					<a href="https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing">external link 2</a>
+		(file size &gt;25GiB)<br/>
 	</td></tr>
 	<tr><td>Lua</td><td>
 		Website: <a href="http://www.lua.org/">www.lua.org</a> <br/>
