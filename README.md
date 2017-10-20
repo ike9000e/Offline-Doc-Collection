@@ -9,7 +9,8 @@ To view CHM files following programs can be used:
 - [CHM Fox](https://addons.mozilla.org/en-US/firefox/addon/chmfox/)
 
 <table>
-	<tr><td>blender</td><td>
+	<tr><td>Blender</td><td>
+		Blender API reference for Blender/Python and Modules.<br/>
 		Website: <a href="http://blender.org/">blender.org</a> <br/>
 		Desc: Free and open-source 3D computer graphics software.<br/>
 		Download: <a href="docs_001/Blender_API_doc_2x75x1_r0x2.chm?raw=true">Blender_API_doc_2x75x1_r0x2.chm</a><br/>
