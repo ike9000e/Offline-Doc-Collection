@@ -23,7 +23,7 @@ To view CHM files following programs can be used:
 	</td></tr>
 	<tr><td>Qt 4</td><td>
 		Qt Reference manual for legacy version 4<br/>
-		Website: <a href="www.qt.io">https://www.qt.io/</a> <br/>
+		Website: <a href="https://www.qt.io/">www.qt.io</a> <br/>
 		Desc: Cross-platform application framework in C++ and other programming languages. <br/>
 		Download:   <a href="https://mega.co.nz/#!8N0xxBQR!eIKBd2s7R8WFgKjZC4Ru4awXCzLWNdioi3IL81bE7BI">external link</a>,
 					<a href="https://drive.google.com/file/d/0BzRpzj5lYe0YTlVpdVE0N0l4MDA/view?usp=sharing">external link 2</a>
