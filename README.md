@@ -31,3 +31,11 @@ To view CHM files following programs can be used:
 
 ##### Currently there may be more docs, not listed here, in the [docs_001](docs_001) directory.
 ##### Mirrored files can be found in this cloud sharing [folder](https://drive.google.com/drive/folders/0BzRpzj5lYe0YaXNoSnlyUGNnWFE?usp=sharing).
+
+<table>
+  <tr><td>Eigen</td><td>
++     Website: <a href="http://eigen.tuxfamily.org/">eigen</a> <br/>
++     Desc: C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.<br/>
++     Download: <a href="docs_001/eigen_v3x3x2_docs_r0x2_20170202.chm">eigen_v3x3x2_docs_r0x2_20170202.chm</a><br/>
+  </td></tr>
+</table>
