@@ -7,6 +7,9 @@ Though original files are created by other authors, eg. author of the project or
 To view CHM files following programs can be used:
 - [Kchmviewer](http://www.ulduzsoft.com/kchmviewer)
 - [CHM Fox](https://addons.mozilla.org/en-US/firefox/addon/chmfox/)
+- *Default* viewer on the Windows O.S. (May or may not work or may be removed from newer versions.)
+
+All CHM files can be easilily unapacked. 7-Zip or other program can be used to get the underlying HTML files. Easiest way is to open it as an archive inside its File Manager.
 
 Documentation Collection:
 <table>
