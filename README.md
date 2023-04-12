@@ -14,6 +14,9 @@ All CHM files can be easilily unapacked to get to the underlying HTML files:
 * Kchmviewer: Open the .chm and select Extract from the File menu.
 
 Documentation Collection:
+
+Browse the [directory](docs_001). Table below is just an excerpt.
+
 <table>
 	<tr><td>Blender</td><td>
 		Blender API reference for Blender/Python and Modules.<br/>
