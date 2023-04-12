@@ -1,15 +1,17 @@
 # Offline Documentation Collection
 
 This repository is a database of documentation files generated for various libraries, projects, programs or converted from other documents.
-Currently all files are in [CHM format](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help).
-Though original files are created by other authors, eg. author of the project or library programmer, contents listed here are documents generated or converted by the owner of this github page. Usually new documents are extended by additions like new table of contents, alphabetical index of topics or new main page.
+Most of files should be in the [CHM format](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help).
+Though original files are created by other authors, eg. author of the project or library programmer, contents listed here are documents generated or converted by the owner of this github page. Usually old documents are extended by additions like new table of contents, alphabetical index of topics or new main page.
 
 To view CHM files following programs can be used:
 - [Kchmviewer](http://www.ulduzsoft.com/kchmviewer)
 - [CHM Fox](https://addons.mozilla.org/en-US/firefox/addon/chmfox/)
 - *Default* viewer on the Windows O.S. (May or may not work or may be removed from newer versions.)
 
-All CHM files can be easilily unapacked. 7-Zip or other program can be used to get the underlying HTML files. Easiest way is to open it as an archive inside its File Manager.
+All CHM files can be easilily unapacked to get to the underlying HTML files:
+* 7-Zip: Just open it as an archive inside its File Manager. Then extract to a folder.
+* Kchmviewer: Open the .chm and select Extract from the File menu.
 
 Documentation Collection:
 <table>
@@ -53,5 +55,5 @@ Documentation Collection:
 </table>
 
 ##### Currently more docs, not listed here, can be found in the [docs_001](docs_001) directory.
-##### Mirrored files can be found in this cloud sharing [folder](https://drive.google.com/drive/folders/0BzRpzj5lYe0YaXNoSnlyUGNnWFE?usp=sharing).
+##### Some mirrored files can be found in this cloud sharing [folder](https://drive.google.com/drive/folders/0BzRpzj5lYe0YaXNoSnlyUGNnWFE?usp=sharing). (may be not updated)
 
